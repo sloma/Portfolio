@@ -133,6 +133,7 @@ Furthermore, I am confident that with my past experiences and my current skill s
         </div>
     </div>
 
+
     <div class="row">
         <hr>
         <div class="large-8 columns">
@@ -187,7 +188,22 @@ Furthermore, I am confident that with my past experiences and my current skill s
             </p>
         </div>
         <div class="large-4 columns">
-            <img src="img/HTML.png" style="width: 50%; margin-left: 10%">
+            <img src="img/rentMe.png" style="width: 200%; margin-left: 10%">
+        </div>
+    </div>
+     <div class="row">
+        <hr>
+        <div class="large-8 columns">
+
+            <h2>Developer</h2>
+            <h4>Speedy: Jan 2015- Present</h4>
+            <br>
+            <p> •	Programmed a Puzzle game 
+                <br>   •	C/C++, Allegro library
+            </p>
+        </div>
+        <div class="large-4 columns">
+            <img src="img/gameSample.png" style="width: 80%;margin-left: 4%">
         </div>
     </div>
 
@@ -199,11 +215,11 @@ Furthermore, I am confident that with my past experiences and my current skill s
             <h4>My trivia: Jan 2015- Present</h4>
             <br>
             <p> •	Programmed a PC game that helps students review for their exams.
-                <br>   •	C++, Allegro library
+                <br>   •	C/C++, Allegro library
             </p>
         </div>
         <div class="large-4 columns">
-            <img src="img/C++.png" style="width: 63%;margin-left: 4%">
+            <img src="img/myTrivia.png" style="width: 110%;margin-left: 4%">
         </div>
     </div>
 
